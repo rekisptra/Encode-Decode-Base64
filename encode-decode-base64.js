@@ -1,7 +1,7 @@
-var plainTextIOField = document.querySelector("#encodebox-shasecsys"),
-  base64IOField = document.querySelector("#base64box-shasecsys"),
-  base64Submit = document.querySelector("#base64shasecsys"),
-  textSubmit = document.querySelector("#encodeshasecsys"),
+var plainTextIOField = document.querySelector("#encodebox-rekisptra"),
+  base64IOField = document.querySelector("#base64box-rekisptra"),
+  base64Submit = document.querySelector("#base64rekisptra"),
+  textSubmit = document.querySelector("#encoderekisptra"),
   
   //use the index of each character in the array as the key that links value and corresponding char in base64 table  
   base64Table = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
